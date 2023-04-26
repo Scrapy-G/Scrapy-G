@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scrapy-G
-- 👀 I’m a web developer
-- 🌱 I’m in my 4th year of my Bachelors in Computer Science.
-- 📫 Reach me at chad@chadcodes.me
+- 👋 Hi, I’m Chad
+- 👀 I’m a fullstack developer
+- 🌱 3+ years in IT
+- 📫 Reach me at 98scrapyg@gmail.com
